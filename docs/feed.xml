@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+   <channel>
+      <title>Ö1 Journale</title>
+      <description>Volle Information. Mit diesem Kanal erhalten Sie die wichtigsten Ö1 Journale des Tages auf einen Klick.</description>
+      <ns0:image href="https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale_premium.jpg?etag=1763da28dc18a9126dba79cd7ec1a764" />
+      <language>de-at</language>
+      <ns0:category text="News">
+         <ns0:category text="Politics" />
+      </ns0:category>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:author>ORF Ö1</ns0:author>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale</link>
+      <ns0:owner>
+         <ns0:email>podcast@orf.at</ns0:email>
+         <ns0:name>ORF Ö1</ns0:name>
+      </ns0:owner>
+      <ns0:type>episodic</ns0:type>
+      <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
+      <copyright>© 2025 ORF / Ö1</copyright>
+      <item>
+         <title>Abendjournal um 18 (23.11.2025)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_f8e04915235b45899429546a98348e99.mp3?etag=b2de0971bb14ac8e0ae31769bcf40150" length="22092355" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_f8e04915235b45899429546a98348e99</guid>
+         <pubDate>Sun, 23 Nov 2025 18:21:02 +0100</pubDate>
+         <description />
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-23112025</link>
+         <ns0:duration>919</ns0:duration>
+         <ns0:explicit>false</ns0:explicit>
+         <ns0:title>Abendjournal um 18 (23.11.2025)</ns0:title>
+      </item>
+      </channel>
+</rss>
