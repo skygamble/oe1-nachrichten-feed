@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2025 ORF / Ö1</copyright>
       <item>
-         <title>Morgenjournal um 7 (24.11.2025)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_30d21bbd74b040ffb68066e7058dc1d0.mp3?etag=545242c0c9c6edf5d090326484f9908a" length="47983501" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_30d21bbd74b040ffb68066e7058dc1d0</guid>
-         <pubDate>Mon, 24 Nov 2025 07:41:42 +0100</pubDate>
+         <title>Morgenjournal um 8 (24.11.2025)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_e493bffbb34f48648a7634b2927a80c1.mp3?etag=67b2ada4e94a04241e8f837aead8915b" length="29318583" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_e493bffbb34f48648a7634b2927a80c1</guid>
+         <pubDate>Mon, 24 Nov 2025 08:27:32 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-24112025</link>
-         <ns0:duration>1997</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-24112025</link>
+         <ns0:duration>1220</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Morgenjournal um 7 (24.11.2025)</ns0:title>
+         <ns0:title>Morgenjournal um 8 (24.11.2025)</ns0:title>
       </item>
       </channel>
 </rss>
