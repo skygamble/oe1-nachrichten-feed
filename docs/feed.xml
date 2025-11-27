@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2025 ORF / Ö1</copyright>
       <item>
-         <title>Frühjournal um 6 (27.11.2025)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_04ea4d37a09f47d5838ef9f94893c7e5.mp3?etag=9abd09480470f1e9440d694576b628b9" length="14775027" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_04ea4d37a09f47d5838ef9f94893c7e5</guid>
-         <pubDate>Thu, 27 Nov 2025 06:17:29 +0100</pubDate>
+         <title>Morgenjournal um 7 (27.11.2025)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c204c524b8a84cf38b32facd7ef48c0e.mp3?etag=af3ccfde127c93674e23286b915aec48" length="48050960" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_c204c524b8a84cf38b32facd7ef48c0e</guid>
+         <pubDate>Thu, 27 Nov 2025 07:42:13 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-27112025</link>
-         <ns0:duration>615</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-27112025</link>
+         <ns0:duration>2000</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Frühjournal um 6 (27.11.2025)</ns0:title>
+         <ns0:title>Morgenjournal um 7 (27.11.2025)</ns0:title>
       </item>
       </channel>
 </rss>
