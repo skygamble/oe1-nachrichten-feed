@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2025 ORF / Ö1</copyright>
       <item>
-         <title>Journal um 5 (28.11.2025)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_54b851828fff418dae8e87c47714b116.mp3?etag=261fd8550d5f820b11b3f46c18c226ed" length="13356070" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_54b851828fff418dae8e87c47714b116</guid>
-         <pubDate>Fri, 28 Nov 2025 17:13:59 +0100</pubDate>
+         <title>Abendjournal um 18 (28.11.2025)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_f7cd463810c1455fa5218ef26f07a5ae.mp3?etag=dfa222e8429a885bae0be9c39827c641" length="36386828" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_f7cd463810c1455fa5218ef26f07a5ae</guid>
+         <pubDate>Fri, 28 Nov 2025 18:33:32 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-28112025</link>
-         <ns0:duration>556</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-28112025</link>
+         <ns0:duration>1514</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Journal um 5 (28.11.2025)</ns0:title>
+         <ns0:title>Abendjournal um 18 (28.11.2025)</ns0:title>
       </item>
       </channel>
 </rss>
