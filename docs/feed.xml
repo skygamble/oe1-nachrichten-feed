@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2025 ORF / Ö1</copyright>
       <item>
-         <title>Mittagsjournal (10.12.2025)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_20807d78441b4e778043739f1ceec97c.mp3?etag=cfd702f9b6a5a9545fec17c3cf3b550b" length="86930629" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_20807d78441b4e778043739f1ceec97c</guid>
-         <pubDate>Wed, 10 Dec 2025 13:12:01 +0100</pubDate>
+         <title>Journal um 5 (10.12.2025)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_47e1520f994d4173bc675c1f8ab5df05.mp3?etag=063bef78f5ae48211c84fc00c463d1bd" length="13413728" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_47e1520f994d4173bc675c1f8ab5df05</guid>
+         <pubDate>Wed, 10 Dec 2025 17:13:39 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-10122025</link>
-         <ns0:duration>3618</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-10122025</link>
+         <ns0:duration>558</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Mittagsjournal (10.12.2025)</ns0:title>
+         <ns0:title>Journal um 5 (10.12.2025)</ns0:title>
       </item>
       </channel>
 </rss>
