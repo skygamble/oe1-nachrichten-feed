@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2025 ORF / Ö1</copyright>
       <item>
-         <title>Morgenjournal um 7 (18.12.2025)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_272c80dc06d546b9b261586bc63daa9e.mp3?etag=1501aff6d84ada47b9481e976cee8e6c" length="48049807" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_272c80dc06d546b9b261586bc63daa9e</guid>
-         <pubDate>Thu, 18 Dec 2025 07:41:19 +0100</pubDate>
+         <title>Morgenjournal um 8 (18.12.2025)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8975b2a6d79a4eefa977124243031e87.mp3?etag=3d7026c4c9be27bf421addb7d83b7001" length="29330114" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_8975b2a6d79a4eefa977124243031e87</guid>
+         <pubDate>Thu, 18 Dec 2025 08:26:13 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-18122025</link>
-         <ns0:duration>2000</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-18122025</link>
+         <ns0:duration>1221</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Morgenjournal um 7 (18.12.2025)</ns0:title>
+         <ns0:title>Morgenjournal um 8 (18.12.2025)</ns0:title>
       </item>
       </channel>
 </rss>
