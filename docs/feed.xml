@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2025 ORF / Ö1</copyright>
       <item>
-         <title>Abendjournal um 18 (18.12.2025)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_cbfd2890d11c43caabd778f80788e388.mp3?etag=5591085c2ce5b015c57b7d6c0721ff53" length="36337819" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_cbfd2890d11c43caabd778f80788e388</guid>
-         <pubDate>Thu, 18 Dec 2025 18:32:15 +0100</pubDate>
+         <title>Frühjournal um 6 (19.12.2025)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_293d172a90b94e2eafb28b7224635c4b.mp3?etag=7c6e3b0a914449fa5ddbb8f5abcab714" length="14879388" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_293d172a90b94e2eafb28b7224635c4b</guid>
+         <pubDate>Fri, 19 Dec 2025 06:17:52 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-18122025</link>
-         <ns0:duration>1512</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-19122025</link>
+         <ns0:duration>619</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Abendjournal um 18 (18.12.2025)</ns0:title>
+         <ns0:title>Frühjournal um 6 (19.12.2025)</ns0:title>
       </item>
       </channel>
 </rss>
