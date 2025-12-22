@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2025 ORF / Ö1</copyright>
       <item>
-         <title>Mittagsjournal (22.12.2025)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2b20aba682484cf4871ac61fce5ef2ff.mp3?etag=e6c95bb9899636e0d1aff5a0ce420f15" length="86719026" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_2b20aba682484cf4871ac61fce5ef2ff</guid>
-         <pubDate>Mon, 22 Dec 2025 13:12:26 +0100</pubDate>
+         <title>Journal um 5 (22.12.2025)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_24e6bdc7637841bcb70672ed89646334.mp3?etag=cadadad268c7fd89a61be1dbe6ac8268" length="13362989" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_24e6bdc7637841bcb70672ed89646334</guid>
+         <pubDate>Mon, 22 Dec 2025 17:16:33 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-22122025</link>
-         <ns0:duration>3609</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-22122025</link>
+         <ns0:duration>556</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Mittagsjournal (22.12.2025)</ns0:title>
+         <ns0:title>Journal um 5 (22.12.2025)</ns0:title>
       </item>
       </channel>
 </rss>
