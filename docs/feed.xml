@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2025 ORF / Ö1</copyright>
       <item>
-         <title>Morgenjournal um 8 (25.12.2025)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_6fcea5fa6d0a4c659f6522c6d494ce26.mp3?etag=4965ae1d0b910c789fce40713a1ceaaa" length="15029299" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_6fcea5fa6d0a4c659f6522c6d494ce26</guid>
-         <pubDate>Thu, 25 Dec 2025 08:56:21 +0100</pubDate>
+         <title>Mittagsjournal (25.12.2025)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_5e7fcb769d0f406ca1ed88f5c1302beb.mp3?etag=4312a4bfe8b37237203d1afb22be043f" length="14887458" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_5e7fcb769d0f406ca1ed88f5c1302beb</guid>
+         <pubDate>Thu, 25 Dec 2025 14:45:25 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-25122025</link>
-         <ns0:duration>625</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-25122025</link>
+         <ns0:duration>620</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Morgenjournal um 8 (25.12.2025)</ns0:title>
+         <ns0:title>Mittagsjournal (25.12.2025)</ns0:title>
       </item>
       </channel>
 </rss>
