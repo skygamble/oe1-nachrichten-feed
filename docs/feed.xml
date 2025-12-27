@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2025 ORF / Ö1</copyright>
       <item>
-         <title>Morgenjournal um 7 (27.12.2025)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d5ed7f39bc504aa992bea5031b53f77c.mp3?etag=5a48ac6e40fe1770888b4e760e626c8b" length="47939681" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_d5ed7f39bc504aa992bea5031b53f77c</guid>
-         <pubDate>Sat, 27 Dec 2025 09:04:32 +0100</pubDate>
+         <title>Morgenjournal um 8 (27.12.2025)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ded8767fd0df44e692f175f1d56e2dd7.mp3?etag=b51b05d357da0b29900832424e7fcee9" length="14884002" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_ded8767fd0df44e692f175f1d56e2dd7</guid>
+         <pubDate>Sat, 27 Dec 2025 09:42:08 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-27122025</link>
-         <ns0:duration>1995</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-27122025</link>
+         <ns0:duration>619</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Morgenjournal um 7 (27.12.2025)</ns0:title>
+         <ns0:title>Morgenjournal um 8 (27.12.2025)</ns0:title>
       </item>
       </channel>
 </rss>
