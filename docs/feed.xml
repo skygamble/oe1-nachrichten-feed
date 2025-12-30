@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2025 ORF / Ö1</copyright>
       <item>
-         <title>Frühjournal um 6 (30.12.2025)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_defd0f696fdd4ed4b21cf042223dae32.mp3?etag=0c600c3bd376d5c13dc4fd4438426a7c" length="14912253" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_defd0f696fdd4ed4b21cf042223dae32</guid>
-         <pubDate>Tue, 30 Dec 2025 06:14:25 +0100</pubDate>
+         <title>Morgenjournal um 7 (30.12.2025)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_e1fadfcd01e242e793b42e2491692b66.mp3?etag=ee13f77b7f473e02f0f5ae83c45ce764" length="48020978" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_e1fadfcd01e242e793b42e2491692b66</guid>
+         <pubDate>Tue, 30 Dec 2025 07:43:17 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-30122025</link>
-         <ns0:duration>621</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-30122025</link>
+         <ns0:duration>1999</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Frühjournal um 6 (30.12.2025)</ns0:title>
+         <ns0:title>Morgenjournal um 7 (30.12.2025)</ns0:title>
       </item>
       </channel>
 </rss>
