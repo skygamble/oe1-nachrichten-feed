@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2026 ORF / Ö1</copyright>
       <item>
-         <title>Morgenjournal um 8 (04.01.2026)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_clk_8037743b49a04510b9f4b5f8f9b1dc23.mp3?etag=2fde54f4eee7e252d2cd8563ce266b23" length="21766013" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_clk_8037743b49a04510b9f4b5f8f9b1dc23</guid>
-         <pubDate>Sun, 04 Jan 2026 13:04:33 +0100</pubDate>
+         <title>Sonntagsjournal (04.01.2026)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_clk_c1f97ef107bf42b9ae0a9dd12f358f00.mp3?etag=986641b599fb2cdd8048f4f4ef466d6d" length="14466558" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_clk_c1f97ef107bf42b9ae0a9dd12f358f00</guid>
+         <pubDate>Sun, 04 Jan 2026 13:35:12 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-04012026</link>
-         <ns0:duration>906</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/sonntagsjournal-04012026</link>
+         <ns0:duration>602</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Morgenjournal um 8 (04.01.2026)</ns0:title>
+         <ns0:title>Sonntagsjournal (04.01.2026)</ns0:title>
       </item>
       </channel>
 </rss>
