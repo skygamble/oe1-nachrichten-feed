@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2026 ORF / Ö1</copyright>
       <item>
-         <title>Mittagsjournal (08.01.2026)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_bfd2c58dc2c545b7a57879b82ad26e8f.mp3?etag=da836e672d18100184855bd4df626097" length="87049404" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_bfd2c58dc2c545b7a57879b82ad26e8f</guid>
-         <pubDate>Thu, 08 Jan 2026 13:12:03 +0100</pubDate>
+         <title>Journal um 5 (08.01.2026)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_a3531a9fa8b9475abd23cd9df761ea5e.mp3?etag=680d5ab8025806d064526cedface8862" length="13605151" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_a3531a9fa8b9475abd23cd9df761ea5e</guid>
+         <pubDate>Thu, 08 Jan 2026 17:16:11 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-08012026</link>
-         <ns0:duration>3623</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-08012026</link>
+         <ns0:duration>566</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Mittagsjournal (08.01.2026)</ns0:title>
+         <ns0:title>Journal um 5 (08.01.2026)</ns0:title>
       </item>
       </channel>
 </rss>
