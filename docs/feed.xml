@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2026 ORF / Ö1</copyright>
       <item>
-         <title>Abendjournal um 18 (11.01.2026)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_acbecc38f3174ecc9b7845b28a88e46a.mp3?etag=403ebd74ea45f19827d2ea4bd9e0c53d" length="22092355" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_acbecc38f3174ecc9b7845b28a88e46a</guid>
-         <pubDate>Sun, 11 Jan 2026 18:21:58 +0100</pubDate>
+         <title>Frühjournal um 6 (12.01.2026)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_6b837bb774304db384923a238fb9a93d.mp3?etag=b034cfcc0d820079d47001648ae7d981" length="14815388" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_6b837bb774304db384923a238fb9a93d</guid>
+         <pubDate>Mon, 12 Jan 2026 06:14:43 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-11012026</link>
-         <ns0:duration>919</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-12012026</link>
+         <ns0:duration>617</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Abendjournal um 18 (11.01.2026)</ns0:title>
+         <ns0:title>Frühjournal um 6 (12.01.2026)</ns0:title>
       </item>
       </channel>
 </rss>
