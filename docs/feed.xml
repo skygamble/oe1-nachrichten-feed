@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2026 ORF / Ö1</copyright>
       <item>
-         <title>Frühjournal um 6 (16.01.2026)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_1813423265484d658d4bd20fdefb55a0.mp3?etag=cfc0cd169095d3a6be6f618e8d2195e2" length="14876505" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_1813423265484d658d4bd20fdefb55a0</guid>
-         <pubDate>Fri, 16 Jan 2026 06:19:01 +0100</pubDate>
+         <title>Morgenjournal um 7 (16.01.2026)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8515a2603b4c4aa699c758762ba19a07.mp3?etag=913c62f2165dfa5008f7d5818610266b" length="48018095" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_8515a2603b4c4aa699c758762ba19a07</guid>
+         <pubDate>Fri, 16 Jan 2026 07:40:38 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-16012026</link>
-         <ns0:duration>619</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-16012026</link>
+         <ns0:duration>1999</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Frühjournal um 6 (16.01.2026)</ns0:title>
+         <ns0:title>Morgenjournal um 7 (16.01.2026)</ns0:title>
       </item>
       </channel>
 </rss>
