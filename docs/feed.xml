@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2026 ORF / Ö1</copyright>
       <item>
-         <title>Mittagsjournal (19.01.2026)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ccdb11603e0f4614b41a84973e701f2c.mp3?etag=7197a137df6c7fcd9581c4b5a64ae501" length="86941007" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_ccdb11603e0f4614b41a84973e701f2c</guid>
-         <pubDate>Mon, 19 Jan 2026 13:11:56 +0100</pubDate>
+         <title>Journal um 5 (19.01.2026)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_db8fbdb68bd040c7bde34731c0308918.mp3?etag=03fe188c051046f77e9f3343e290dbf8" length="13516935" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_db8fbdb68bd040c7bde34731c0308918</guid>
+         <pubDate>Mon, 19 Jan 2026 17:14:34 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-19012026</link>
-         <ns0:duration>3619</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-19012026</link>
+         <ns0:duration>562</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Mittagsjournal (19.01.2026)</ns0:title>
+         <ns0:title>Journal um 5 (19.01.2026)</ns0:title>
       </item>
       </channel>
 </rss>
