@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2026 ORF / Ö1</copyright>
       <item>
-         <title>Frühjournal um 6 (23.01.2026)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_f6141162c3504c8d8db959f331503104.mp3?etag=be0e308aca5ffca233a14bac4441a653" length="14930126" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_f6141162c3504c8d8db959f331503104</guid>
-         <pubDate>Fri, 23 Jan 2026 06:19:19 +0100</pubDate>
+         <title>Morgenjournal um 7 (23.01.2026)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_e19dfeb0939548ae999e2519e3dac7c0.mp3?etag=bb970d3ebfb4052d777f259443147411" length="47978888" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_e19dfeb0939548ae999e2519e3dac7c0</guid>
+         <pubDate>Fri, 23 Jan 2026 07:41:02 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-23012026</link>
-         <ns0:duration>621</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-23012026</link>
+         <ns0:duration>1997</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Frühjournal um 6 (23.01.2026)</ns0:title>
+         <ns0:title>Morgenjournal um 7 (23.01.2026)</ns0:title>
       </item>
       </channel>
 </rss>
