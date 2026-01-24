@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2026 ORF / Ö1</copyright>
       <item>
-         <title>Morgenjournal um 8 (24.01.2026)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_67623d8fb0d54576bb3c933b06f90934.mp3?etag=30d1fa69149634e3f5c5e80b0f0ed261" length="14923786" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_67623d8fb0d54576bb3c933b06f90934</guid>
-         <pubDate>Sat, 24 Jan 2026 08:14:32 +0100</pubDate>
+         <title>Mittagsjournal (24.01.2026)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_61e38559996d4c9db5c80b5744bf3f59.mp3?etag=3bb4c91888849c48dba70783f7122293" length="81192545" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_61e38559996d4c9db5c80b5744bf3f59</guid>
+         <pubDate>Sat, 24 Jan 2026 13:06:57 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-24012026</link>
-         <ns0:duration>621</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-24012026</link>
+         <ns0:duration>3379</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Morgenjournal um 8 (24.01.2026)</ns0:title>
+         <ns0:title>Mittagsjournal (24.01.2026)</ns0:title>
       </item>
       </channel>
 </rss>
