@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2026 ORF / Ö1</copyright>
       <item>
-         <title>Frühjournal um 6 (27.01.2026)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_21530371556f4ccf8fdee236a19d624c.mp3?etag=51d94ad6a6f1ebdefe6278569c3e4859" length="14922054" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_21530371556f4ccf8fdee236a19d624c</guid>
-         <pubDate>Tue, 27 Jan 2026 06:17:38 +0100</pubDate>
+         <title>Morgenjournal um 7 (27.01.2026)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_30755624a590480f90692e6e2b59859e.mp3?etag=163951018fc2571d6841c1f61f6995f6" length="47950059" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_30755624a590480f90692e6e2b59859e</guid>
+         <pubDate>Tue, 27 Jan 2026 07:42:15 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-27012026</link>
-         <ns0:duration>621</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-27012026</link>
+         <ns0:duration>1996</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Frühjournal um 6 (27.01.2026)</ns0:title>
+         <ns0:title>Morgenjournal um 7 (27.01.2026)</ns0:title>
       </item>
       </channel>
 </rss>
