@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2026 ORF / Ö1</copyright>
       <item>
-         <title>Morgenjournal um 7 (31.01.2026)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_da4f9cbb1c3b459ba5e9cbfeaad92966.mp3?etag=d429416297eb02c92f3a7e6937c59091" length="48099969" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_da4f9cbb1c3b459ba5e9cbfeaad92966</guid>
-         <pubDate>Sat, 31 Jan 2026 07:40:51 +0100</pubDate>
+         <title>Morgenjournal um 8 (31.01.2026)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_0d098d5c7f484ff8b4d876935873d4f8.mp3?etag=5ea388136926023451e1648b2a446f37" length="14815390" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_0d098d5c7f484ff8b4d876935873d4f8</guid>
+         <pubDate>Sat, 31 Jan 2026 08:14:42 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-31012026</link>
-         <ns0:duration>2002</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-31012026</link>
+         <ns0:duration>617</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Morgenjournal um 7 (31.01.2026)</ns0:title>
+         <ns0:title>Morgenjournal um 8 (31.01.2026)</ns0:title>
       </item>
       </channel>
 </rss>
