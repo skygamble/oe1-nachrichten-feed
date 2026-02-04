@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2026 ORF / Ö1</copyright>
       <item>
-         <title>Morgenjournal um 8 (04.02.2026)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ccd35a900e144883adf9f69fedd6d06d.mp3?etag=616e52c05fe16d96f05b8cc74540240d" length="29278799" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_ccd35a900e144883adf9f69fedd6d06d</guid>
-         <pubDate>Wed, 04 Feb 2026 08:26:13 +0100</pubDate>
+         <title>Mittagsjournal (04.02.2026)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c62901a3bf0d4e4caa9ea6ab326f2a93.mp3?etag=359279325c1c42b37d360cba1acfe17e" length="86895458" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_c62901a3bf0d4e4caa9ea6ab326f2a93</guid>
+         <pubDate>Wed, 04 Feb 2026 13:12:07 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-04022026</link>
-         <ns0:duration>1219</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-04022026</link>
+         <ns0:duration>3617</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Morgenjournal um 8 (04.02.2026)</ns0:title>
+         <ns0:title>Mittagsjournal (04.02.2026)</ns0:title>
       </item>
       </channel>
 </rss>
