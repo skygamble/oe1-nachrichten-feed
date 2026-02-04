@@ -19,15 +19,15 @@
       <ns0:new-feed-url>https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml</ns0:new-feed-url>
       <copyright>© 2026 ORF / Ö1</copyright>
       <item>
-         <title>Journal um 5 (04.02.2026)</title>
-         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_157ec86ca62740f383c9270eb59623f8.mp3?etag=0f3cffae069d99d62905b6155f6861d6" length="13473691" type="audio/mpeg" />
-         <guid isPermaLink="false">di_oe1_journale_da1_157ec86ca62740f383c9270eb59623f8</guid>
-         <pubDate>Wed, 04 Feb 2026 17:14:48 +0100</pubDate>
+         <title>Abendjournal um 18 (04.02.2026)</title>
+         <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4c9540e0e6dd4d989ce2748cd36af26d.mp3?etag=36554159b5c756bcb25b69cc408d8991" length="36289963" type="audio/mpeg" />
+         <guid isPermaLink="false">di_oe1_journale_da1_4c9540e0e6dd4d989ce2748cd36af26d</guid>
+         <pubDate>Wed, 04 Feb 2026 18:31:39 +0100</pubDate>
          <description />
-         <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-04022026</link>
-         <ns0:duration>561</ns0:duration>
+         <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-04022026</link>
+         <ns0:duration>1510</ns0:duration>
          <ns0:explicit>false</ns0:explicit>
-         <ns0:title>Journal um 5 (04.02.2026)</ns0:title>
+         <ns0:title>Abendjournal um 18 (04.02.2026)</ns0:title>
       </item>
       </channel>
 </rss>
